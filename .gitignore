@@ -2,7 +2,7 @@
 .*.gitignore
 
 # Compiled Go files (add a / before the '?' if you want to exclude these from all directories)
-?*.go
+
 
 # Object files (includes Go runtime objects, a.k.a. main modules)
 *.o
