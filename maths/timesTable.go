@@ -1,4 +1,4 @@
-package main
+package maths
 
 import "fmt"
 
@@ -17,6 +17,3 @@ func timesTable(row int, col int) {
 }
 
 //prints the 10-times table from 1-12
-func main() {
-	timesTable(12, 10)
-}
